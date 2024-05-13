@@ -1,0 +1,2 @@
+## HypoxIA
+**HypoxIA** es una aplicación con fines médicos que se encargará de analizar los datos de saturación y del flujo de aire del paciente, con el fin de medir las apneas del sueño. Esta información se procesará mediante un algoritmo y dará como resultado un número llamado carga hipóxica, índice que se descubrió recientemente y que según estudios científicos es un mejor medidor de severidad que los índices utilizados normalmente.
